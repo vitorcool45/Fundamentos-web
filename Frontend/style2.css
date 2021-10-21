@@ -1,0 +1,44 @@
+/*ESTILO DENTRO DA PASTA INDEX2.HTML*/
+.fontSize{
+    font-size: 26px;
+    }
+    
+    .fontSize2{
+        font-size: 22px;
+    }
+    
+    .fontSize3{
+        font-size: 45px;
+    }
+    
+       .textAlign{
+           text-align: center;
+       }
+    
+       .container{
+           display: flex;
+           flex-flow: row;
+           justify-content: center;
+           align-items: center;
+       }
+    
+       .br-50{
+           border: 50%;
+       }
+    
+       .p{
+           padding: 20px;
+       }
+    
+       .tm-social{
+           width: 40px;
+           height: 40px;
+       }
+    
+       .justify{
+           text-align: justify;
+       }
+    
+       body{
+        background: #be0303e3;
+    }
